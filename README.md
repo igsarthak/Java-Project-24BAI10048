@@ -40,7 +40,7 @@ This repository organizes code into specific packages (model, service, main) whi
 Java-Project-24BAI10048/
 │
 ├── src/                                   -> Source code root
-│   └── studyapp/                          -> Base Package
+│   └── StudyManager/                      -> Base Package
 │       ├── model/                         -> Data structures (The "What")
 │       │   ├── StudyResource.java
 │       │   ├── Book.java
@@ -50,7 +50,7 @@ Java-Project-24BAI10048/
 │       │   └── DataHandler.java
 │       │
 │       └── main/                          -> Entry point (The "Run")
-│           └── StudyManagerApp.java
+│           └── StudyManagerPro.java
 │
 ├── data/                                  -> Persistent storage folder
 │   └── study_data.ser                     -> Generated serialized data
